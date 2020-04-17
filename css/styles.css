@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	background-color: #FFDED1;
+        }
+
+.container-fluid {
+	background-color: #FFDED1;
+	align-content: center;
+	text-align: center;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+.nav {
+	font-family: "bebas-neue";
+}
