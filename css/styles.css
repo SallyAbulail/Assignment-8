@@ -18,3 +18,20 @@
 .nav {
 	font-family: "bebas-neue";
 }
+
+.logosite { 
+	width: 275px;
+	height: 120px;
+}
+
+.chatbox { 
+	width: 300px;
+}
+
+.quote {
+	width: 300px; 
+}
+
+.hearts { 
+	width: 200px;
+}
